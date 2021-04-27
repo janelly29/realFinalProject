@@ -20,7 +20,7 @@ function[] = finalProject()
     plotgui.yAxisTitleBox = uicontrol('style', 'text', 'string', 'ln of Concentration', 'units', 'normalized' , 'position', [0.002 0.5 0.1 0.05]); 
     plotgui.xValuesBox = uicontrol('style', 'edit', 'string', 'Enter Time Values', 'units', 'normalized' , 'position', [0.2 0.02 0.1 0.05]); 
     plotgui.yValuesBox = uicontrol('style', 'edit', 'string', 'Enter Concentration Values', 'units', 'normalized' , 'position', [0.01 0.85 0.1 0.05]); 
-    
-
+   
+  
 end
 
